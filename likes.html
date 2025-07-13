@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Liked Videos</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!-- font awesome -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+
+   <!-- your CSS -->
+   <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+   <section class="flex">
+      <a href="home.html" class="logo">Educa</a>
+      <form action="search.html" method="post" class="search-form">
+         <input type="text" name="search_box" required placeholder="search courses..." maxlength="100">
+         <button type="submit" class="fas fa-search"></button>
+      </form>
+      <div class="icons">
+         <div id="menu-btn" class="fas fa-bars"></div>
+         <div id="search-btn" class="fas fa-search"></div>
+         <div id="user-btn" class="fas fa-user"></div>
+         <div id="toggle-btn" class="fas fa-sun"></div>
+      </div>
+      <div class="profile">
+         <img src="images/pic-1.jpg" class="image" alt="">
+         <h3 class="name">Somya Garg</h3>
+         <p class="role">student</p>
+         <a href="profile.html" class="btn">view profile</a>
+      </div>
+   </section>
+</header>
+
+<div class="side-bar">
+   <div id="close-btn">
+      <i class="fas fa-times"></i>
+   </div>
+   <div class="profile">
+      <img src="images/pic-1.jpg" class="image" alt="">
+      <h3 class="name">Somya Garg</h3>
+      <p class="role">student</p>
+      <a href="profile.html" class="btn">view profile</a>
+   </div>
+   <nav class="navbar">
+      <a href="home.html"><i class="fas fa-home"></i><span>home</span></a>
+      <a href="about.html"><i class="fas fa-question"></i><span>about</span></a>
+      <a href="courses.html"><i class="fas fa-graduation-cap"></i><span>courses</span></a>
+      <a href="teachers.html"><i class="fas fa-chalkboard-user"></i><span>teachers</span></a>
+      <a href="contact.html"><i class="fas fa-headset"></i><span>contact us</span></a>
+   </nav>
+</div>
+
+<section class="liked-videos">
+   <h1 class="heading">Liked Videos</h1>
+
+   <!-- <div class="box-container">
+
+       Example liked video 
+      <div class="box">
+         <div class="tutor">
+            <img src="images/pic-2.jpg" alt="">
+            <div>
+               <h3>John Deo</h3>
+               <span>21-10-2022</span>
+            </div>
+         </div>
+         <img src="images/html.png" class="thumb" alt="">
+         <h3 class="title">Complete HTML Tutorial</h3>
+      </div>
+
+      You can copy and add more liked videos here 
+
+   </div> -->
+
+    <div class="box-container">
+
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-2.jpg" alt="">
+         <div>
+            <h3>John Deo</h3>
+            <span>21-10-2022</span>
+         </div>
+      </div>
+      <img src="images/html.png" class="thumb" alt="">
+      <h3 class="title">Complete HTML Tutorial</h3>
+   </div>
+
+   
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-2.jpg" alt="">
+         <div>
+            <h3>jase Deo</h3>
+            <span>21-10-2022</span>
+         </div>
+      </div>
+      <img src="images/html.png" class="thumb" alt="">
+      <h3 class="title">Complete JAVA Tutorial</h3>
+   </div>
+
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-3.jpg" alt="">
+         <div>
+            <h3>John Deo</h3>
+            <span>22-10-2022</span>
+         </div>
+      </div>
+      <img src="images/css.png" class="thumb" alt="">
+      <h3 class="title">Complete CSS Tutorial</h3>
+   </div>
+
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-4.jpg" alt="">
+         <div>
+            <h3>John Deo</h3>
+            <span>23-10-2022</span>
+         </div>
+      </div>
+      <img src="images/js.png" class="thumb" alt="">
+      <h3 class="title">Complete JS Tutorial</h3>
+   </div>
+
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-5.jpg" alt="">
+         <div>
+            <h3>John Deo</h3>
+            <span>24-10-2022</span>
+         </div>
+      </div>
+      <img src="images/bootstrap.png" class="thumb" alt="">
+      <h3 class="title">Complete Bootstrap Tutorial</h3>
+   </div>
+
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-6.jpg" alt="">
+         <div>
+            <h3>John Deo</h3>
+            <span>25-10-2022</span>
+         </div>
+      </div>
+      <img src="images/jquery.png" class="thumb" alt="">
+      <h3 class="title">Complete jQuery Tutorial</h3>
+   </div>
+
+   <div class="box">
+      <div class="tutor">
+         <img src="images/pic-7.jpg" alt="">
+         <div>
+            <h3>John Deo</h3>
+            <span>26-10-2022</span>
+         </div>
+      </div>
+      <img src="images/sass.png" class="thumb" alt="">
+      <h3 class="title">Complete SASS Tutorial</h3>
+   </div>
+
+</div>
+
+
+</section>
+
+<footer class="footer">
+   &copy; copyright @ 2022 by <span>mr. web designer</span> | all rights reserved!
+</footer>
+
+<!-- JS -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
