@@ -64,6 +64,19 @@ Educa is a beginner-friendly, responsive E-learning website built using **HTML**
 
 <img width="1909" height="945" alt="Image" src="https://github.com/user-attachments/assets/e1ec7cf5-92d5-402c-aa47-3a30bb45dce3" />
 
+<img width="1900" height="954" alt="Image" src="https://github.com/user-attachments/assets/a695c45f-7216-4aec-b5f4-237c4e8afc39" />
+
+<img width="1904" height="959" alt="Image" src="https://github.com/user-attachments/assets/1839cc31-de43-4a39-b23b-ac1e3013507b" />
+
+<img width="1897" height="960" alt="Image" src="https://github.com/user-attachments/assets/ab917349-5aef-4d7e-ad80-e13a187b3ceb" />
+
+<img width="1878" height="938" alt="Image" src="https://github.com/user-attachments/assets/9f3ba5b1-fc01-4b53-a7e1-586f10a76fed" />
+
+<img width="1897" height="947" alt="Image" src="https://github.com/user-attachments/assets/b1f6d460-5c00-4d6f-a925-b82e77c0bc5a" />
+
+<img width="1898" height="965" alt="Image" src="https://github.com/user-attachments/assets/0f476bd8-f636-48fd-92d3-5113b57a1c7d" />
+
+<img width="1891" height="981" alt="Image" src="https://github.com/user-attachments/assets/79ad6f63-6812-4ce3-b1c2-adfa11076fc4" />
 
 ##  Developed By
 
